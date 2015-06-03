@@ -1,4 +1,3 @@
 CleanTabs
-=========
 
-** TODO: Add description **
+Simple script to remove tabs from files recursively.
